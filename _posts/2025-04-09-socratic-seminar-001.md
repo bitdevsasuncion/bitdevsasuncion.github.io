@@ -36,12 +36,12 @@ meetup: "https://lu.ma/hqws2482"
 
 ## Cryptography & Privacy
 
-- [CISA HRF Report](https://hrf.org/latest/cisa-research-paper/)  
-- [Group Wallet: Simpler, Stronger, Better](https://nunchuk.io/blog/group-wallet)
+- [The Evolution of Payjoin: From Two-Party Protocol to Multiparty Framework](https://payjoindevkit.org/2025/03/18/the-evolution-of-payjoin/)  
 
 ## Bonus Topics
 
-- [The Evolution of Payjoin: From Two-Party Protocol to Multiparty Framework](https://payjoindevkit.org/2025/03/18/the-evolution-of-payjoin/)  
+- [CISA HRF Report](https://hrf.org/latest/cisa-research-paper/)  
+- [Group Wallet: Simpler, Stronger, Better](https://nunchuk.io/blog/group-wallet)
 - [Bitcoin node P2P traffic analysis](https://delvingbitcoin.org/t/bitcoin-node-p2p-traffic-analysis/1490)  
 - [The Ark case for CTV](https://delvingbitcoin.org/t/the-ark-case-for-ctv)  
 - [OP_CHECKCONTRACTVERIFY and its amount semantic](https://delvingbitcoin.org/t/op-checkcontractverify-and-its-amount-semantic)
