@@ -11,12 +11,13 @@ meetup: "https://lu.ma/hqws2482"
 - Meetups are never recorded. We want everyone to feel comfortable participating and discussing the scheduled topics, anonymously if they wish
 
 ## Acknowledgements
+
 - Thanks to [Vinteum](https://vinteum.org/) and [Bitcoin Paraguay](https://bitcoinparaguay.org/) for the support
 
 ## Warmup
 
-- [Bitcoin Mailing list temporarily banned from Google](https://xcancel.com/callebtc/status/1907491265328927126)  
-- [LN Roulette – A Lightning-Powered, Provably Fair Roulette Game](https://stacker.news/items/836563)
+- [Bitcoin Mailing list temporarily banned from Google](https://xcancel.com/callebtc/status/1907491265328927126)
+- [Phoenix is back in the USA](https://xcancel.com/PhoenixWallet/status/1909652018207109567)
 
 ## Bitcoin
 
