@@ -30,6 +30,7 @@ meetup: "https://lu.ma/hqws2482"
 
 ## Lightning Network
 
+- [Disclosure: LND Excessive Failback Exploit](https://delvingbitcoin.org/t/disclosure-lnd-excessive-failback-exploit/1493)  
 - [LND v0.19.0](https://github.com/lightningnetwork/lnd/blob/master/docs/release-notes/release-notes-0.19.0.md)  
 - [Fee based spam prevention for Lightning](https://delvingbitcoin.org/t/fee-based-spam-prevention-for-lightning/1524)
 
@@ -42,6 +43,5 @@ meetup: "https://lu.ma/hqws2482"
 
 - [The Evolution of Payjoin: From Two-Party Protocol to Multiparty Framework](https://payjoindevkit.org/2025/03/18/the-evolution-of-payjoin/)  
 - [Bitcoin node P2P traffic analysis](https://delvingbitcoin.org/t/bitcoin-node-p2p-traffic-analysis/1490)  
-- [Disclosure: LND Excessive Failback Exploit](https://delvingbitcoin.org/t/disclosure-lnd-excessive-failback-exploit/1493)  
 - [The Ark case for CTV](https://delvingbitcoin.org/t/the-ark-case-for-ctv)  
 - [OP_CHECKCONTRACTVERIFY and its amount semantic](https://delvingbitcoin.org/t/op-checkcontractverify-and-its-amount-semantic)
