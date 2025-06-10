@@ -23,8 +23,7 @@ meetup: "https://lu.ma/uuenqifz"
 
 - [Dust Expiry: Clean the UTXO set from spam](https://delvingbitcoin.org/t/dust-expiry-clean-the-utxo-set-from-spam/1707/1)
 - [Withdrawing OP_VAULT (BIP-345)](https://delvingbitcoin.org/t/withdrawing-op-vault-bip-345/1670)
-- [musig2 has finally been merged in to rust bitcoin (musig2 my ears)](https://github.com/rust-bitcoin/rust-secp256k1/pull/716)
-- [Avoiding xpub+derivation reuse across wallets, in a UX-friendly manner](https://delvingbitcoin.org/t/avoiding-xpub-derivation-reuse-across-wallets-in-a-ux-friendly-manner/1644)
+- [CTV + CSFS Open Letter](https://ctv-csfs.com/)
 - [Bitcoin and Quantum Computing: Current Status and Future Directions](https://chaincode.com/bitcoin-post-quantum.pdf)
 - [Disclosure of CVE 2024-52919](https://bitcoincore.org/en/2025/04/28/disclose-cve-2024-52919/)
 
