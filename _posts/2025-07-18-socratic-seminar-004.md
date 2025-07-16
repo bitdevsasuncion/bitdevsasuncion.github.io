@@ -16,10 +16,10 @@ meetup: "https://lu.ma/2kns3r9m"
 
 ## Warmup
 
-* [Wallet of Satoshi - Self Custodial mode (?)](https://xcancel.com/spark/status/1940168641301119094)
-    * [Spark TL;DR](https://docs.spark.money/spark/spark-tldr)
-    * [Statechains](https://bitcoinops.org/en/topics/statechains/)
-    * [Statechains Deep-Dive](https://medium.com/@RubenSomsen/statechains-non-custodial-off-chain-bitcoin-transfer-1ae4845a4a39)
+* [LN native prediction market](https://beta.predyx.com/)
+* Mesh networks
+    * [Bluetooth](https://x.com/jack/status/1941989435962212728?s=46)
+    * [LoRa](https://gist.github.com/douglaz/6079bf3aafdfa594fa5b78ba45ceb9fc)
 
 ## Bitcoin
 
@@ -34,13 +34,19 @@ meetup: "https://lu.ma/2kns3r9m"
 ## Privacy / Cryptography
 
 * [Zerolink CoinJoin coordinator](https://ashigaru.rs/news/announcement-whirlpool/)
-    * TODO: Add analysis showing some weaknesses of Zerolink
+    * [Security Analysis](https://gist.github.com/84adam/e130b40cff5915de67b86fc8e452c8aa)
 * [wskdf](https://github.com/douglaz/wskdf)
+* [White Noise is out!](https://jumble.social/notes/nevent1qqsdl4v3l249aq8wk8nf4uptzmmr3xgr5arye9xf5ehkqmexp27mcnqpzdmhxue69uhhwmm59e6hg7r09ehkuef0qgspwwwexlwgcrrnwz4zwkze8rq3ncjug8mvgsd96dxx6wzs8ccndmcrqsqqqqqphyxwc2)
 
 ## L2
 
+* [Wallet of Satoshi - Self Custodial mode (?)](https://xcancel.com/spark/status/1940168641301119094)
+    * [Spark TL;DR](https://docs.spark.money/spark/spark-tldr)
+    * [Statechains](https://bitcoinops.org/en/topics/statechains/)
+    * [Statechains Deep-Dive](https://medium.com/@RubenSomsen/statechains-non-custodial-off-chain-bitcoin-transfer-1ae4845a4a39)
 * [Garbled circuits and BitVM3](https://delvingbitcoin.org/t/garbled-circuits-and-bitvm3/1773)
     * [BitVM3](https://bitvm.org/bitvm3.pdf)
+    * [Good podcast](https://bitcoinops.org/en/podcast/2025/06/24/)
 
 ## Releases
 
