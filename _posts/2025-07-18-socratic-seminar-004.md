@@ -23,7 +23,6 @@ meetup: "https://lu.ma/2kns3r9m"
 
 ## Bitcoin
 
-* [Witnessless sync for pruned nodes](https://delvingbitcoin.org/t/witnessless-sync-for-pruned-nodes/1742/1)
 * [Bitcoin Snapshots - signed and pre-synced UTXO Set torrent](https://bitcoin-snapshots.jaonoctus.dev/)
 
 ## Mining
