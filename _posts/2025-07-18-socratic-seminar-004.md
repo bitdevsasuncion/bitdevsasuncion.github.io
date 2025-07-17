@@ -24,6 +24,9 @@ meetup: "https://lu.ma/2kns3r9m"
 ## Bitcoin
 
 * [Bitcoin Snapshots - signed and pre-synced UTXO Set torrent](https://bitcoin-snapshots.jaonoctus.dev/)
+* Quantum proposals
+    * [jlopp's Post Quantum Migration](https://github.com/jlopp/bips/blob/quantum_migration/bip-post-quantum-migration.mediawiki)
+    * [Changes to BIP 360 - Pay to Quantum-Resistant Hash (P2QRH)](https://delvingbitcoin.org/t/changes-to-bip-360-pay-to-quantum-resistant-hash-p2qrh/1811)
 
 ## Mining
 
