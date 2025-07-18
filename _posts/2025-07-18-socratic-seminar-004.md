@@ -50,10 +50,5 @@ meetup: "https://lu.ma/2kns3r9m"
     * [Statechains Deep-Dive](https://medium.com/@RubenSomsen/statechains-non-custodial-off-chain-bitcoin-transfer-1ae4845a4a39)
 * [Garbled circuits and BitVM3](https://delvingbitcoin.org/t/garbled-circuits-and-bitvm3/1773)
     * [BitVM3](https://bitvm.org/bitvm3.pdf)
-    * [Good podcast](https://bitcoinops.org/en/podcast/2025/06/24/)
+    * [Good Podcast](https://bitcoinops.org/en/podcast/2025/06/24/)
     * [Potential Attack](https://eprint.iacr.org/2025/1291)
-
-## Releases
-
-* [Electrum 4.6 features submarine swaps over Nostr](https://xcancel.com/ElectrumWallet/status/1933909910011453631)
-* [Phoenixd is now supported as official lightning backend on BTCPay Server](https://xcancel.com/BtcpayServer/status/1932120073243672863#m)
