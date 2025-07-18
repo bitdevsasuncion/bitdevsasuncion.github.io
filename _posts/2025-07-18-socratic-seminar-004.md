@@ -50,6 +50,7 @@ meetup: "https://lu.ma/2kns3r9m"
 * [Garbled circuits and BitVM3](https://delvingbitcoin.org/t/garbled-circuits-and-bitvm3/1773)
     * [BitVM3](https://bitvm.org/bitvm3.pdf)
     * [Good podcast](https://bitcoinops.org/en/podcast/2025/06/24/)
+    * [Potential Attack](https://eprint.iacr.org/2025/1291)
 
 ## Releases
 
