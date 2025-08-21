@@ -17,7 +17,6 @@ meetup: "https://lu.ma/asubitdevs"
 ## Warmup
 
 * [Is recycling coins a thing? (bitcoin-dev)](https://groups.google.com/d/msgid/bitcoindev/a186c724-eef7-4964-9aba-85ae9cce2249n%40googlegroups.com)
-* [Quantum Bitcoin Summit — highlights](https://www.youtube.com/watch?v=GeUdu4hrBPI)
 * [Running Bitcoin: client comparison (PDF)](https://s3.us-east-1.amazonaws.com/1a1z.com/files/1A1z+-+Running+Bitcoin+-+Client+Comparison.pdf)
 
 ## Bitcoin (Core, protocol, wallets)
@@ -27,7 +26,10 @@ meetup: "https://lu.ma/asubitdevs"
     * [Delving thread](https://delvingbitcoin.org/t/changing-the-minimum-relay-feerate/1886)
     * [PR](https://github.com/bitcoin/bitcoin/pull/33106)
 
-* **Utreexo** — draft BIPs and request for review: [Optech #366 summary](https://bitcoinops.org/en/newsletters/2025/08/08/)
+* **Utreexo** — draft BIPs and request for review
+    * [Accumulator BIP](https://github.com/utreexo/biptreexo/blob/main/utreexo-accumulator-bip.md)
+    * [P2P BIP](https://github.com/utreexo/biptreexo/blob/main/utreexo-p2p-bip.md)
+    * [Validation BIP](https://github.com/utreexo/biptreexo/blob/main/utreexo-validation-bip.md)
 * **Peer block template sharing** — mitigate divergent mempool policies: [Delving thread](https://delvingbitcoin.org/t/sharing-block-templates/1906) · [Optech #366](https://bitcoinops.org/en/newsletters/2025/08/08/)
 * **Augur** — mempool‑based fee estimation lib by Block: [Delving post](https://delvingbitcoin.org/t/augur-block-s-open-source-bitcoin-fee-estimation-library/1848) · [Optech #365](https://bitcoinops.org/en/newsletters/2025/08/01/)
 * **Core reorgs >10 blocks** — what happens under deep reorgs: [StackExchange](https://bitcoin.stackexchange.com/questions/127512/during-re-org-how-does-bitcoin-core-validate-if-the-transaction-is-mined-in-the)
