@@ -32,8 +32,6 @@ meetup: "https://lu.ma/asubitdevs"
     * [Validation BIP](https://github.com/utreexo/biptreexo/blob/main/utreexo-validation-bip.md)
 * **Peer block template sharing** — mitigate divergent mempool policies: [Delving thread](https://delvingbitcoin.org/t/sharing-block-templates/1906) · [Optech #366](https://bitcoinops.org/en/newsletters/2025/08/08/)
 * **Augur** — mempool‑based fee estimation lib by Block: [Delving post](https://delvingbitcoin.org/t/augur-block-s-open-source-bitcoin-fee-estimation-library/1848) · [Optech #365](https://bitcoinops.org/en/newsletters/2025/08/01/)
-* **Core reorgs >10 blocks** — what happens under deep reorgs: [StackExchange](https://bitcoin.stackexchange.com/questions/127512/during-re-org-how-does-bitcoin-core-validate-if-the-transaction-is-mined-in-the)
-
 
 ## L2 / Lightning
 
