@@ -20,6 +20,8 @@ meetup: "https://lu.ma/asubitdevs"
 * [Running Bitcoin: client comparison (PDF)](https://s3.us-east-1.amazonaws.com/1a1z.com/files/1A1z+-+Running+Bitcoin+-+Client+Comparison.pdf)
 * [Cat images vs Filters](https://x.com/stutxo/status/1951376504975491514)
     * One liner: `curl -s "https://mempool.space/api/tx/8a3c63c2e9ff88db03b58dba600e2cb78c77c921928034a709f903b080eeb34f" | jq -r '.vin[0].witness[2]' | tr -d '[:space:]' | grep -o -i -m1 '52494646[0-9a-f]*57454250[0-9a-f]*' | cut -c1-8192 | xxd -r -p > labitbu.webp`
+    * [Labitbu](https://x.com/mononautical/status/1951683985957851367)
+* [Eggstr](https://eggstr.com/)
 
 ## Bitcoin (Core, protocol, wallets)
 
