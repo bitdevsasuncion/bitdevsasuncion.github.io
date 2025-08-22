@@ -44,6 +44,7 @@ meetup: "https://lu.ma/asubitdevs"
 ## Privacy / Cryptography / Research
 
 * **Glock** — Alpen Labs’ proposal for fast verification using garbled circuits + DV‑SNARKs: [Blog](https://www.alpenlabs.io/blog/glock-verification-on-bitcoin)
+    * [Paper](https://www.alpenlabs.io/blog/glock-is-here)
 * **FROSTSnap** — ergonomic threshold signing stack: [frostsnap.com](https://frostsnap.com/)
 * **LND gossip DoS vuln (historic)** — fixed in 0.18.3; recap for operators: [Optech #364](https://bitcoinops.org/en/newsletters/2025/07/25/)
 
