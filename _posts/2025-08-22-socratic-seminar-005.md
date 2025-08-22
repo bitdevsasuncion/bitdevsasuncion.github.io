@@ -33,6 +33,7 @@ meetup: "https://lu.ma/asubitdevs"
     * [P2P BIP](https://github.com/utreexo/biptreexo/blob/main/utreexo-p2p-bip.md)
     * [Validation BIP](https://github.com/utreexo/biptreexo/blob/main/utreexo-validation-bip.md)
 * **Peer block template sharing** — mitigate divergent mempool policies: [Delving thread](https://delvingbitcoin.org/t/sharing-block-templates/1906) · [Optech #366](https://bitcoinops.org/en/newsletters/2025/08/08/)
+    * [BIP PR](https://github.com/ajtowns/bips/pull/7/files)
 * **Chain Code Delegation** — collaborative custody without xpub disclosure: [Delving post](https://delvingbitcoin.org/t/chain-code-delegation-private-access-control-for-bitcoin-keys/1837)
 * **Augur** — mempool‑based fee estimation lib by Block: [Delving post](https://delvingbitcoin.org/t/augur-block-s-open-source-bitcoin-fee-estimation-library/1848) · [Optech #365](https://bitcoinops.org/en/newsletters/2025/08/01/)
 
