@@ -45,8 +45,3 @@ meetup: "https://lu.ma/asubitdevs"
 * **FROSTSnap** — ergonomic threshold signing stack: [frostsnap.com](https://frostsnap.com/)
 * **LND gossip DoS vuln (historic)** — fixed in 0.18.3; recap for operators: [Optech #364](https://bitcoinops.org/en/newsletters/2025/07/25/)
 
-## Mining
-
-* **Template sharing & miners** — implications for pools and empty‑block risk: [Delving: Template sharing](https://delvingbitcoin.org/t/sharing-block-templates/1906)
-
-
