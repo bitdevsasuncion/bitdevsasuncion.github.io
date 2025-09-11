@@ -21,12 +21,11 @@ meetup: "https://lu.ma/asubitdevs"
 
 ## Bitcoin
 
-* [Trusted delegation of script evaluation](https://delvingbitcoin.org/t/confidential-script-emulate-soft-forks-using-stateless-tees/1918/)
-* [Proto mining hardware and software announced](https://proto.xyz/blog/posts/proto-rig-and-proto-fleet-a-paradigm-shift)
 * [Bitcoin core enable -natpmp by default](https://bitcoinops.org/en/newsletters/2025/08/01/#bitcoin-core-33004)
 
 ## Cool Shit
 
+* [Frost Example](https://hackmd.io/@bc-community/BJ2VtYKUxl)
 * [State of bitcoinfuzz](https://brunoerg.xyz/2025/08/21/the-state-of-bitcoinfuzz.html)
 * [KEF format](https://delvingbitcoin.org/t/krux-kef-encryption-format/1912)
 * [Ark usage in Riga](https://x.com/ArkLabsHQ/status/1955617205967782203)
