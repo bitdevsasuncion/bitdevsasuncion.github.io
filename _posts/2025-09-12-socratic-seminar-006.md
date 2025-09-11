@@ -19,12 +19,13 @@ meetup: "https://lu.ma/asubitdevs"
 * [Bitcoin++ Insider](https://insider.btcpp.dev/)
 * [BIS AML proposal for cryptoassets](https://www.bis.org/publ/bisbull111.pdf)
 
-## Bitcoin
+## Bitcoin (Core, protocol, wallets)
 
 * [Bitcoin core enable -natpmp by default](https://bitcoinops.org/en/newsletters/2025/08/01/#bitcoin-core-33004)
-
-## Cool Shit
-
-* [Frost Example](https://hackmd.io/@bc-community/BJ2VtYKUxl)
 * [State of bitcoinfuzz](https://brunoerg.xyz/2025/08/21/the-state-of-bitcoinfuzz.html)
+
+## Privacy / Cryptography / Research
+
+* [Eclipsing Bitcoin nodes with BGP interception attacks](https://delvingbitcoin.org/t/eclipsing-bitcoin-nodes-with-bgp-interception-attacks/1965)
+* [Frost Example](https://hackmd.io/@bc-community/BJ2VtYKUxl)
 * [Ark usage in Riga](https://x.com/ArkLabsHQ/status/1955617205967782203)
