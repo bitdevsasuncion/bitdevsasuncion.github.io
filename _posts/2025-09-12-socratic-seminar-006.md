@@ -34,7 +34,7 @@ meetup: "https://lu.ma/asubitdevs"
 
 ## Privacy / Cryptography / Research
 
-* [Waterfalls](https://github.com/RCasatta/waterfalls)
 * [Eclipsing Bitcoin nodes with BGP interception attacks](https://delvingbitcoin.org/t/eclipsing-bitcoin-nodes-with-bgp-interception-attacks/1965)
-* [Frost Example](https://hackmd.io/@bc-community/BJ2VtYKUxl)
 * [Ark usage in Riga](https://x.com/ArkLabsHQ/status/1955617205967782203)
+* [Frost Example](https://hackmd.io/@bc-community/BJ2VtYKUxl)
+* [Waterfalls](https://github.com/RCasatta/waterfalls)
