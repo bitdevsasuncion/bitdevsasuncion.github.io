@@ -19,12 +19,12 @@ meetup: "https://lu.ma/asubitdevs"
 * Conferences
     * [Accelerating Bitcoin](https://acelerandobitcoin.com/)
     * [SatsConf](https://x.com/satsconf_/status/1962863806138208263)
+        * BITDEVS10
 * [Bitcoin++ Insider](https://insider.btcpp.dev/)
 * [BIS AML proposal for cryptoassets](https://www.bis.org/publ/bisbull111.pdf)
 
 ## Bitcoin (Core, protocol, wallets)
 
-* [Bitcoin core enable -natpmp by default](https://bitcoinops.org/en/newsletters/2025/08/01/#bitcoin-core-33004)
 * [State of bitcoinfuzz](https://brunoerg.xyz/2025/08/21/the-state-of-bitcoinfuzz.html)
 
 ## Privacy / Cryptography / Research
