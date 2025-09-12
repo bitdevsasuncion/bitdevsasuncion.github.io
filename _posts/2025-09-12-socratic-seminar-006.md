@@ -26,6 +26,9 @@ meetup: "https://lu.ma/asubitdevs"
 ## Bitcoin (Core, protocol, wallets)
 
 * [State of bitcoinfuzz](https://brunoerg.xyz/2025/08/21/the-state-of-bitcoinfuzz.html)
+* [Tether to launch USDT on RGB](https://tether.io/news/tether-to-launch-usdt-on-rgb-expanding-native-bitcoin-stablecoin-support/)
+    * [RGB vs Taproot Assets vs Spark vs Liquid](https://gist.github.com/douglaz/105e5026337b2b10343fc8b89c467725)
+    * [RGB vs Taproot Assets vs Spark vs Liquid vs Rootstock vs Citrea](https://gist.github.com/douglaz/91586299b4a1ffcca36021ad6c3bcd0c)
 
 ## Privacy / Cryptography / Research
 
