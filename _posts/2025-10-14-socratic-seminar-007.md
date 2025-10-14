@@ -22,7 +22,7 @@ meetup: "https://lu.ma/asubitdevs"
 * [Are all taproot addresses vulnerable to quantum computing](https://bitcoin.stackexchange.com/questions/127660/are-all-taproot-addresses-vulnerable-to-quantum-computing)
 * [Draft BIPs for Script Restoration](https://github.com/rustyrussell/bips/pull/1)
 
-# L2
+## L2
 * [Spark/WoS lack of privacy](https://xcancel.com/evankaloudis/status/1975997003680108908)
 * [Eclair vulnerability that allows an attacker to steal all current funds from a channel](https://delvingbitcoin.org/t/disclosure-eclair-preimage-extraction-exploit/2010)
 
