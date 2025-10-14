@@ -19,6 +19,7 @@ meetup: "https://lu.ma/asubitdevs"
 
 ## Bitcoin (Core, protocol, wallets)
 * [What is in Bitcoin Core v30?](https://xcancel.com/bitschmidty/status/1976692672023667057)
+    * Notable: [Improve TxOrphanage denial of service bounds](https://github.com/bitcoin/bitcoin/pull/31829)
 * [Are all taproot addresses vulnerable to quantum computing](https://bitcoin.stackexchange.com/questions/127660/are-all-taproot-addresses-vulnerable-to-quantum-computing)
 * [Draft BIPs for Script Restoration](https://github.com/rustyrussell/bips/pull/1)
 
@@ -28,7 +29,7 @@ meetup: "https://lu.ma/asubitdevs"
 * [Eclair vulnerability that allows an attacker to steal all current funds from a channel](https://delvingbitcoin.org/t/disclosure-eclair-preimage-extraction-exploit/2010)
 
 ## Privacy / Cryptography / Research
-* [Secure Fountain Codes for Pruned Bitcoin Nodes](https://xcancel.com/roasbeef/status/1973914845247594840)
+* [Secure Fountain Codes for Pruned Bitcoin Nodes](https://xcancel.com/roasbeef/status/1973914919365194136)
     * [Fountain code](https://en.wikipedia.org/wiki/Fountain_code)
 
 ## Releases
