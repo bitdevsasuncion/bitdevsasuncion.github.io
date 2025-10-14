@@ -24,6 +24,7 @@ meetup: "https://lu.ma/asubitdevs"
 
 ## L2
 * [Spark/WoS lack of privacy](https://xcancel.com/evankaloudis/status/1975997003680108908)
+    * Example: elderdeborah028@walletofsatoshi.com
 * [Eclair vulnerability that allows an attacker to steal all current funds from a channel](https://delvingbitcoin.org/t/disclosure-eclair-preimage-extraction-exploit/2010)
 
 ## Privacy / Cryptography / Research
