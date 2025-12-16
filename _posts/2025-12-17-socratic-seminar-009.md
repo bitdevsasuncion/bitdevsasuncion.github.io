@@ -14,6 +14,7 @@ meetup: "https://www.satlantis.io/events/1384/ASU%3A-BitDevs-%239"
 
 ## Warmup
 * [Cluster Mempool Implementation PR Merged 🚀](https://github.com/bitcoin/bitcoin/pull/33629)
+* [Enabling Lightning Payments with Liquid Swaps in the Blockstream App](https://blog.blockstream.com/enabling-lightning-payments-with-liquid-swaps-in-the-blockstream-app/)
 
 
 ## Bitcoin (Core, protocol, wallets)
@@ -24,6 +25,11 @@ meetup: "https://www.satlantis.io/events/1384/ASU%3A-BitDevs-%239"
 * [Gossip Observer: New project to monitor the Lightning P2P network](https://delvingbitcoin.org/t/gossip-observer-new-project-to-monitor-the-lightning-p2p-network/2105)
 
 ## Privacy / Cryptography / Research
+
+* [How Bitkey used Chain Code Delegation to create the first private collaborative bitcoin wallet.](https://bitkey.build/not-our-keys-not-our-business/)
+    * [Chain Code Delegation: Improving privacy in collaborative multisig](https://bitkey.build/chain-code-delegation-improving-privacy-in-collaborative-multisig/)
+* [Privacy-first watch-only Bitcoin wallet](https://github.com/strhodler/utxopocket-android)
+* [What Trezor’s new “quantum-ready” hardware wallet really means for Bitcoin](https://cryptoslate.com/what-trezors-new-quantum-ready-hardware-wallet-really-means-for-bitcoin/)
 
 
 ## Philosophy
