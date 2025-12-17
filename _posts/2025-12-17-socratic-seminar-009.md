@@ -29,9 +29,5 @@ meetup: "https://www.satlantis.io/events/1384/ASU%3A-BitDevs-%239"
 ## Privacy / Cryptography / Research
 
 * [Privacy-first watch-only Bitcoin wallet](https://github.com/strhodler/utxopocket-android)
+    * [UtxoPocket UI](https://x.com/semillabtc/status/1992494860180545831)
 * [What Trezor’s new “quantum-ready” hardware wallet really means for Bitcoin](https://cryptoslate.com/what-trezors-new-quantum-ready-hardware-wallet-really-means-for-bitcoin/)
-
-
-## Philosophy
-
-## Releases
