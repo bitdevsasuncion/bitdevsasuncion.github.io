@@ -19,6 +19,8 @@ meetup: "https://www.satlantis.io/events/1384/ASU%3A-BitDevs-%239"
 
 ## Bitcoin (Core, protocol, wallets)
 * [BIP 89: Chain Code Delegation for Private Collaborative Custody #2004](https://github.com/bitcoin/bips/pull/2004)
+    * [How Bitkey used Chain Code Delegation to create the first private collaborative bitcoin wallet.](https://bitkey.build/not-our-keys-not-our-business/)
+    * [Chain Code Delegation: Improving privacy in collaborative multisig](https://bitkey.build/chain-code-delegation-improving-privacy-in-collaborative-multisig/)
 * [Consensus bug on NBitcoin: out-of-bound issue in `Remove()`](https://delvingbitcoin.org/t/consensus-bug-on-nbitcoin-out-of-bound-issue-in-remove/2120)
 
 ## L2
@@ -26,8 +28,6 @@ meetup: "https://www.satlantis.io/events/1384/ASU%3A-BitDevs-%239"
 
 ## Privacy / Cryptography / Research
 
-* [How Bitkey used Chain Code Delegation to create the first private collaborative bitcoin wallet.](https://bitkey.build/not-our-keys-not-our-business/)
-    * [Chain Code Delegation: Improving privacy in collaborative multisig](https://bitkey.build/chain-code-delegation-improving-privacy-in-collaborative-multisig/)
 * [Privacy-first watch-only Bitcoin wallet](https://github.com/strhodler/utxopocket-android)
 * [What Trezor’s new “quantum-ready” hardware wallet really means for Bitcoin](https://cryptoslate.com/what-trezors-new-quantum-ready-hardware-wallet-really-means-for-bitcoin/)
 
