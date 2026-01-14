@@ -23,3 +23,4 @@ meetup: "https://www.satlantis.io/events/1508/ASU%3A-BitDevs-%2310"
 
 
 * [Hash Based Signatures for Bitcoin](https://eprint.iacr.org/2025/2203.pdf)
+* [Jade Security Disclosure](https://blog.blockstream.com/jade-security-disclosure/)
