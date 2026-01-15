@@ -14,6 +14,9 @@ meetup: "https://www.satlantis.io/events/1508/ASU%3A-BitDevs-%2310"
 
 ## Warmup
 
+* [G‑Bot Federation Setup Service](https://www.fedi.xyz/federationsetupservice)
+* [Floresta Project](https://x.com/getfloresta/status/2009312154285940760)
+
 
 ## Bitcoin (Core, protocol, wallets)
 
