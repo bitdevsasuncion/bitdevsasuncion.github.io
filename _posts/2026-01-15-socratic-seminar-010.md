@@ -21,6 +21,8 @@ meetup: "https://www.satlantis.io/events/1508/ASU%3A-BitDevs-%2310"
 
 ## L2
 
+* [ARK as a channel factory: compressed liquidity management for improved payment feasibility](https://delvingbitcoin.org/t/ark-as-a-channel-factory-compressed-liquidity-management-for-improved-payment-feasibility/2179)
+
 ## Privacy / Cryptography / Research
 
 * [Building a vault using blinded co-signers](https://delvingbitcoin.org/t/building-a-vault-using-blinded-co-signers/2141)
