@@ -31,7 +31,9 @@ meetup: "https://www.satlantis.io/events/1935/ASU%3A-BitDevs-%2312"
 * [Recent OP_RETURN usage and BIP-110](https://bitcoinops.org/en/newsletters/2026/02/20/)
   * [Embedding Images in Bitcoin Blocks Without OP_RETURN via Slipstream](https://xcancel.com/KristianCsep/status/2027434616513057147)
   <!-- * Easy framing: can Bitcoin stop arbitrary data, and should it -->
-<!-- * [BIP-352: Update for Silent Payments Reference Implementation](https://github.com/bitcoin/bips/commit/249bdef156bc43073b0f184f4ad48a3a387a4c11)
+
+<!--
+* [BIP-352: Update for Silent Payments Reference Implementation](https://github.com/bitcoin/bips/commit/249bdef156bc43073b0f184f4ad48a3a387a4c11)
   * Pair with [BIP-380/390/392: Silent Payment Output Script Descriptors](https://github.com/bitcoin/bips/commit/41f99576308d192526093a39718fff842692d13c) -->
   <!-- * Easy framing: silent payments moving from idea to usable wallet tooling -->
 
@@ -39,7 +41,9 @@ meetup: "https://www.satlantis.io/events/1935/ASU%3A-BitDevs-%2312"
 ## Lightning and L2
 
 * [SuperScalar (channel factories / Decker-Wattenhofer timeout tree)](https://github.com/8144225309/SuperScalar)
+
   <!-- * Good if we want one ambitious Lightning scaling idea -->
+
 <!-- * [Continued discussion of Gossip Observer traffic analysis tool](https://bitcoinops.org/en/newsletters/2026/03/13/)
   * Easier backup Lightning topic than the lower-level BOLT nits -->
 
