@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Socratic Seminar #11"
-meetup: "https://www.satlantis.io/events/1508/ASU%3A-BitDevs-%2310"
+meetup: "https://www.satlantis.io/events/1508/ASU%3A-BitDevs-%2311"
 ---
 
 ## Announcements
