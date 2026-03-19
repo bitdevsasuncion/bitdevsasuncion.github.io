@@ -21,13 +21,11 @@ meetup: "https://www.satlantis.io/events/1935/ASU%3A-BitDevs-%2312"
 * [Lightning Network Channel Capacity Exceeds $500 Million](https://xcancel.com/natgmi/status/2032592685249237067)
 * [Bitcoin Mining Hashrate Increases +50% to 1.2 ZH/s](https://xcancel.com/DocumentingBTC/status/2029281302021586969)
 
-## Main topics
 
-### Bitcoin (Core, protocol, wallets)
+## Bitcoin (Core, protocol, wallets)
 
 * [The limitations of cryptographic agility in Bitcoin](https://groups.google.com/g/bitcoindev/c/O6l3GUvyO7A)
   * [Quantum-Proofing Bitcoin with P2Q Addresses](https://xcancel.com/rodarmor/status/2027813909550584109)
-  <!-- * Easy framing: if quantum becomes real, can Bitcoin just swap signatures -->
 * [Recent OP_RETURN usage and BIP-110](https://bitcoinops.org/en/newsletters/2026/02/20/)
   * [Embedding Images in Bitcoin Blocks Without OP_RETURN via Slipstream](https://xcancel.com/KristianCsep/status/2027434616513057147)
   <!-- * Easy framing: can Bitcoin stop arbitrary data, and should it -->
@@ -41,11 +39,6 @@ meetup: "https://www.satlantis.io/events/1935/ASU%3A-BitDevs-%2312"
 ## Lightning and L2
 
 * [SuperScalar (channel factories / Decker-Wattenhofer timeout tree)](https://github.com/8144225309/SuperScalar)
-
-  <!-- * Good if we want one ambitious Lightning scaling idea -->
-
-<!-- * [Continued discussion of Gossip Observer traffic analysis tool](https://bitcoinops.org/en/newsletters/2026/03/13/)
-  * Easier backup Lightning topic than the lower-level BOLT nits -->
 
 ## Privacy / Cryptography / Research
 
