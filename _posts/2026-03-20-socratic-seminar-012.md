@@ -25,7 +25,7 @@ meetup: "https://www.satlantis.io/events/1935/ASU%3A-BitDevs-%2312"
 
 - [The limitations of cryptographic agility in Bitcoin](https://groups.google.com/g/bitcoindev/c/O6l3GUvyO7A)
   - [Quantum-Proofing Bitcoin with P2Q Addresses](https://xcancel.com/rodarmor/status/2027813909550584109)
-- [Recent OP_RETURN usage and BIP-110](https://bitcoinops.org/en/newsletters/2026/02/20/)
+- [Recent OP_RETURN usage and BIP-110](https://delvingbitcoin.org/t/recent-op-return-output-statistics/2248)
   - [Embedding Images in Bitcoin Blocks Without OP_RETURN via Slipstream](https://xcancel.com/KristianCsep/status/2027434616513057147)
 - [Using AI tooling for code review](https://delvingbitcoin.org/t/using-ai-tooling-for-code-review/2277)
   <!-- * Easy framing: can Bitcoin stop arbitrary data, and should it -->
@@ -44,6 +44,7 @@ meetup: "https://www.satlantis.io/events/1935/ASU%3A-BitDevs-%2312"
 
 - [I2P network under attack](https://www.reddit.com/r/i2p/comments/1qvalmq/megathread_ongoing_attack_on_i2p_network_causing/)
   - [Kimwolf botnet swamps anonymity network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
+  - [US says it disrupted Kimwolf botnet](https://www.reuters.com/business/media-telecom/us-says-it-disrupted-botnets-that-infected-over-3-million-devices-worldwide-2026-03-20/)
 
 <!-- ## Defer for this month
 
