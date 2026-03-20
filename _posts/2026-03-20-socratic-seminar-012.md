@@ -16,17 +16,18 @@ meetup: "https://www.satlantis.io/events/1935/ASU%3A-BitDevs-%2312"
 
 ## Warmup
 
-* [Review BTC++](https://x.com/btcplusplus/status/2029614436428959897)
+- [Review BTC++](https://x.com/btcplusplus/status/2029614436428959897)
   <!-- * Keep this short. Use it to frame the night around exploits, tradeoffs, and current debates -->
-* [Bitcoin Mining Hashrate Increases +50% to 1.2 ZH/s](https://xcancel.com/DocumentingBTC/status/2029281302021586969)
-
+- [Bitcoin Mining Hashrate Increases +50% to 1.2 ZH/s](https://xcancel.com/DocumentingBTC/status/2029281302021586969)
+- [Open-Source Agents Need to Get Serious About Payments](https://x.com/thebluematt/status/2026667191475777727?s=46&t=j-_0JYEClY_v0wtv4GA0Zw)
 
 ## Bitcoin (Core, protocol, wallets)
 
-* [The limitations of cryptographic agility in Bitcoin](https://groups.google.com/g/bitcoindev/c/O6l3GUvyO7A)
-  * [Quantum-Proofing Bitcoin with P2Q Addresses](https://xcancel.com/rodarmor/status/2027813909550584109)
-* [Recent OP_RETURN usage and BIP-110](https://bitcoinops.org/en/newsletters/2026/02/20/)
-  * [Embedding Images in Bitcoin Blocks Without OP_RETURN via Slipstream](https://xcancel.com/KristianCsep/status/2027434616513057147)
+- [The limitations of cryptographic agility in Bitcoin](https://groups.google.com/g/bitcoindev/c/O6l3GUvyO7A)
+  - [Quantum-Proofing Bitcoin with P2Q Addresses](https://xcancel.com/rodarmor/status/2027813909550584109)
+- [Recent OP_RETURN usage and BIP-110](https://bitcoinops.org/en/newsletters/2026/02/20/)
+  - [Embedding Images in Bitcoin Blocks Without OP_RETURN via Slipstream](https://xcancel.com/KristianCsep/status/2027434616513057147)
+  - [Using AI tooling for code review](https://delvingbitcoin.org/t/using-ai-tooling-for-code-review/2277)
   <!-- * Easy framing: can Bitcoin stop arbitrary data, and should it -->
 
 <!--
@@ -34,15 +35,14 @@ meetup: "https://www.satlantis.io/events/1935/ASU%3A-BitDevs-%2312"
   * Pair with [BIP-380/390/392: Silent Payment Output Script Descriptors](https://github.com/bitcoin/bips/commit/41f99576308d192526093a39718fff842692d13c) -->
   <!-- * Easy framing: silent payments moving from idea to usable wallet tooling -->
 
-
 ## Lightning and L2
 
-* [SuperScalar (channel factories / Decker-Wattenhofer timeout tree)](https://github.com/8144225309/SuperScalar)
+- [SuperScalar (channel factories / Decker-Wattenhofer timeout tree)](https://github.com/8144225309/SuperScalar)
 
 ## Privacy / Cryptography / Research
 
-* [I2P network under attack](https://www.reddit.com/r/i2p/comments/1qvalmq/megathread_ongoing_attack_on_i2p_network_causing/)
-  * [Kimwolf botnet swamps anonymity network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
+- [I2P network under attack](https://www.reddit.com/r/i2p/comments/1qvalmq/megathread_ongoing_attack_on_i2p_network_causing/)
+  - [Kimwolf botnet swamps anonymity network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
 
 <!-- ## Defer for this month
 
