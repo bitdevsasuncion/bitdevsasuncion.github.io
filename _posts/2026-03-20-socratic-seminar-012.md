@@ -27,7 +27,7 @@ meetup: "https://www.satlantis.io/events/1935/ASU%3A-BitDevs-%2312"
   - [Quantum-Proofing Bitcoin with P2Q Addresses](https://xcancel.com/rodarmor/status/2027813909550584109)
 - [Recent OP_RETURN usage and BIP-110](https://bitcoinops.org/en/newsletters/2026/02/20/)
   - [Embedding Images in Bitcoin Blocks Without OP_RETURN via Slipstream](https://xcancel.com/KristianCsep/status/2027434616513057147)
-  - [Using AI tooling for code review](https://delvingbitcoin.org/t/using-ai-tooling-for-code-review/2277)
+- [Using AI tooling for code review](https://delvingbitcoin.org/t/using-ai-tooling-for-code-review/2277)
   <!-- * Easy framing: can Bitcoin stop arbitrary data, and should it -->
 
 <!--
