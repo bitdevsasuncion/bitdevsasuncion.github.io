@@ -9,6 +9,7 @@ meetup: "https://www.satlantis.io/events/1935/ASU%3A-BitDevs-%2312"
 
 - Respect the privacy of participants
 - Meetups are never recorded. We want everyone to feel comfortable participating and discussing the scheduled topics, anonymously if they wish
+- Join our [Signal Group](https://gist.github.com/douglaz/820dd39e23b0eb4ae56a58e8fcfbab4d)
 
 ## Acknowledgements
 
