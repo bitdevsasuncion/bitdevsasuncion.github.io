@@ -18,7 +18,6 @@ meetup: "https://www.satlantis.io/events/1935/ASU%3A-BitDevs-%2312"
 
 * [Review BTC++](https://xcancel.com/btcplusplus/status/2029614436428959897)
   <!-- * Keep this short. Use it to frame the night around exploits, tradeoffs, and current debates -->
-* [Lightning Network Channel Capacity Exceeds $500 Million](https://xcancel.com/natgmi/status/2032592685249237067)
 * [Bitcoin Mining Hashrate Increases +50% to 1.2 ZH/s](https://xcancel.com/DocumentingBTC/status/2029281302021586969)
 
 
