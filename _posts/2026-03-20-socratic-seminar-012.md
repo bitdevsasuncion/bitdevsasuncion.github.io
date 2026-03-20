@@ -38,6 +38,7 @@ meetup: "https://www.satlantis.io/events/1935/ASU%3A-BitDevs-%2312"
 ## Lightning and L2
 
 - [SuperScalar (channel factories / Decker-Wattenhofer timeout tree)](https://github.com/8144225309/SuperScalar)
+- [Mario Kart with LN](https://xcancel.com/d_plus__plus/status/2022889867169140767)
 
 ## Privacy / Cryptography / Research
 
