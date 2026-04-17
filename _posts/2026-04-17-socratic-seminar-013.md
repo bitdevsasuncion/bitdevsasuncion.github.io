@@ -21,9 +21,9 @@ meetup: "https://www.satlantis.io/events/2020/ASU%3A-BitDevs-%2313"
 
 ## Bitcoin (Core, protocol, wallets)
 
-- [2 DoS vulnerabilities on Floresta](https://brunoerg.xyz/2026/03/10/dos-floresta.html)
 - [Bitcoin Under Stress: Measuring Infrastructure Resilience 2014-2025](https://arxiv.org/abs/2602.14372)
-- [BIP54 / Consensus Cleanup](https://github.com/bitcoin/bips/blob/master/bip-0054.md)
+- [Block propagation and validation duration during slow-to-validate blocks on Signet](https://bnoc.xyz/t/block-propagation-and-validation-duration-during-slow-to-validate-blocks-on-signet/117)
+    - [BIP54 / Consensus Cleanup](https://github.com/bitcoin/bips/blob/master/bip-0054.md)
 - [New BIP for feature negotiation](https://github.com/bitcoin/bips/blob/master/bip-0434.md)
 - [New BIP to standardize and expand miner search space](https://github.com/bitcoin/bips/pull/2116)
 - [Draft BIP for wallet backup metadata format](https://github.com/bitcoin/bips/pull/2130)
