@@ -25,7 +25,6 @@ meetup: "https://www.satlantis.io/events/2020/ASU%3A-BitDevs-%2313"
 - [Bitcoin Under Stress: Measuring Infrastructure Resilience 2014-2025](https://arxiv.org/abs/2602.14372)
 - [Block propagation and validation duration during slow-to-validate blocks on Signet](https://bnoc.xyz/t/block-propagation-and-validation-duration-during-slow-to-validate-blocks-on-signet/117)
     - [BIP54 / Consensus Cleanup](https://github.com/bitcoin/bips/blob/master/bip-0054.md)
-- [Draft BIP for wallet backup metadata format](https://github.com/bitcoin/bips/pull/2130)
 
 ## Lightning and L2
 
