@@ -23,6 +23,7 @@ meetup: "https://www.satlantis.io/events/2020/ASU%3A-BitDevs-%2313"
 ## Bitcoin (Core, protocol, wallets)
 
 - [In defense of a PQ output type](https://groups.google.com/g/bitcoindev/c/JA3kDl8AmQg)
+    - [Post-Quantum BIP-86 Recovery via zk-STARK Proof of BIP-32 Seed Knowledge](https://groups.google.com/g/bitcoindev/c/Q06piCEJhkI)
     - [BIP 361 - Quantum Migration and freeze of old coins](https://github.com/bitcoin/bips/blob/master/bip-0361.mediawiki)
 - [Bitcoin Under Stress: Measuring Infrastructure Resilience 2014-2025](https://arxiv.org/abs/2602.14372)
 - [Block propagation and validation duration during slow-to-validate blocks on Signet](https://bnoc.xyz/t/block-propagation-and-validation-duration-during-slow-to-validate-blocks-on-signet/117)
