@@ -18,6 +18,7 @@ meetup: "https://www.satlantis.io/events/2020/ASU%3A-BitDevs-%2313"
 ## Warmup
 
 - [Vulnerability Report — BRIX](https://gist.github.com/jaonoctus/421fff0dc0d4073b0c70d5a78ffff5a7)
+    - [BRIX code](https://github.com/Brostr/bro)
 
 ## Bitcoin (Core, protocol, wallets)
 
