@@ -29,7 +29,6 @@ meetup: "https://www.satlantis.io/events/2020/ASU%3A-BitDevs-%2313"
 
 ## Lightning and L2
 
-- [V-PACK: Stateless VTXO Verification](https://delvingbitcoin.org/t/stateless-vtxo-verification-decoupling-custody-from-implementation-specific-stacks/2267)
 - [LND adds onion message forwarding on the road to BOLT12 offers](https://github.com/lightningnetwork/lnd/pull/10089)
 - [Core Lightning fixes splice interoperability issues with Eclair](https://github.com/ElementsProject/lightning/pull/8817)
 - [LDK fixes trampoline-payment HTLC expiry handling](https://github.com/lightningdevkit/rust-lightning/pull/4402)
