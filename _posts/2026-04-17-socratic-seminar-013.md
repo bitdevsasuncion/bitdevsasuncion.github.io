@@ -22,6 +22,7 @@ meetup: "https://www.satlantis.io/events/2020/ASU%3A-BitDevs-%2313"
 
 ## Bitcoin (Core, protocol, wallets)
 
+- [BIP 361 - Quantum Migration and freeze of old coins](https://github.com/bitcoin/bips/blob/master/bip-0361.mediawiki)
 - [Bitcoin Under Stress: Measuring Infrastructure Resilience 2014-2025](https://arxiv.org/abs/2602.14372)
 - [Block propagation and validation duration during slow-to-validate blocks on Signet](https://bnoc.xyz/t/block-propagation-and-validation-duration-during-slow-to-validate-blocks-on-signet/117)
     - [BIP54 / Consensus Cleanup](https://github.com/bitcoin/bips/blob/master/bip-0054.md)
@@ -30,7 +31,6 @@ meetup: "https://www.satlantis.io/events/2020/ASU%3A-BitDevs-%2313"
 
 - [LND adds onion message forwarding on the road to BOLT12 offers](https://github.com/lightningnetwork/lnd/pull/10089)
 - [Core Lightning fixes splice interoperability issues with Eclair](https://github.com/ElementsProject/lightning/pull/8817)
-- [LDK fixes trampoline-payment HTLC expiry handling](https://github.com/lightningdevkit/rust-lightning/pull/4402)
 
 ## Privacy / Cryptography / Research
 
