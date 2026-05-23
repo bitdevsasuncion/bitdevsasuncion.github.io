@@ -31,8 +31,8 @@ meetup: "https://www.satlantis.io/events/2020/ASU%3A-BitDevs-%2314"
 
 - [IPC-based tracing interface on Bitcoin Core](https://github.com/bitcoin/bitcoin/issues/35142)
 - [BIP draft: UTXO set sharing](https://github.com/bitcoin/bips/pull/2137)
-- [BIP352: clarify/fix specification to disallow sender to create outputs the receiver can't find](https://github.com/bitcoin/bips/pull/2153)
 - [BIP450: Formosa, seed encoding by themed mnemonic stories](https://github.com/bitcoin/bips/blob/master/bip-0450.mediawiki)
+- [Sparrow 2.5.0](https://github.com/sparrowwallet/sparrow/releases/tag/2.5.0)
 
 ## Lightning and L2
 
@@ -41,8 +41,8 @@ meetup: "https://www.satlantis.io/events/2020/ASU%3A-BitDevs-%2314"
 
 
 ## Privacy / Cryptography / Research
-
-
-## Wallets
-
-- [Sparrow 2.5.0](https://github.com/sparrowwallet/sparrow/releases/tag/2.5.0)
+- [Private broadcast tracking](https://github.com/bitcoin/bitcoin/issues/34476) ([wallet support](https://github.com/bitcoin/bitcoin/pull/34457), [decoy transactions](https://github.com/bitcoin/bitcoin/pull/35252))
+- [BIP352: clarify/fix specification to disallow sender to create outputs the receiver can't find](https://github.com/bitcoin/bips/pull/2153)
+- [Introducing Mosaic: Glock's final piece](https://www.alpenlabs.io/blog/introducing-mosaic-glocks-final-piece)
+- [BitVM3](https://eprint.iacr.org/2026/933)
+- [RFC: Erlay Conceptual Discussion](https://github.com/bitcoin/bitcoin/issues/34542)
