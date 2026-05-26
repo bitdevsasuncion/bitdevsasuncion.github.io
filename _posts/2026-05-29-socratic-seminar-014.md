@@ -19,7 +19,7 @@ meetup: "https://www.satlantis.io/events/2020/ASU%3A-BitDevs-%2314"
 
 - [Btrust announces new board](https://blog.btrust.tech/btrust-announces-new-board-to-lead-next-phase-of-growth/)
 - [Influence of Bitcoin developers](https://sorukumar.github.io/orange-dev-network/network.html)
-- [Wallet passphrase recovery using Claude + btcrecover](https://xcancel.com/bitdov/status/2054617359525068937)
+- [Wallet passphrase recovery using Claude + btcrecover](https://xcancel.com/cprkrn/status/2054586810475364536)
 
 ## Security
 
