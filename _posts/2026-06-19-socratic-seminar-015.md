@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Socratic Seminar #15"
-meetup: "https://www.satlantis.io/events/2020/ASU%3A-BitDevs-%2314"
+meetup: "https://www.satlantis.io/events/2022/asu-bitdevs-15"
 ---
 
 ## Announcements
@@ -19,6 +19,7 @@ meetup: "https://www.satlantis.io/events/2020/ASU%3A-BitDevs-%2314"
 
 * [Welcoming conduition](https://brink.dev/blog/2026/06/01/conduition/)
 * [Public Pool added Stratum V2 support](https://xcancel.com/StratumV2/status/2062959948720447919)
+* [Zenobank: Crypto Payment Gateway Architecture](https://zenobank.io/blog/crypto-payment-gateway-architecture)
 
 ## Bitcoin (Core, protocol, wallets)
 
