@@ -34,6 +34,7 @@ meetup: "https://www.satlantis.io/events/2022/asu-bitdevs-15"
     * [Noah Wallet](https://xcancel.com/hampus_s/status/2064465370359218649)
 * [Ark: Offchain Transaction Batching in Bitcoin](https://arxiv.org/abs/2605.20952)
 * [Cube: Ark + ZK](https://medium.com/cube-bitcoin/introducing-cube-8b3702e470a5)
+    * [Cube gist](https://gist.github.com/douglaz/40f53c0f906468c379b14d3679f9d975)
 
 ## Privacy / Cryptography / Research / Security
 
