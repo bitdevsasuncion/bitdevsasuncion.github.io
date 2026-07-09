@@ -20,9 +20,18 @@ meetup: "https://www.satlantis.io/events/2023/asu-bitdevs-16"
 
 ## Bitcoin (Core, protocol, wallets)
 
-
+* [CTV-only Vault Concept v0.1.0 release](https://delvingbitcoin.org/t/ctv-only-vault-concept-v0-1-0-release/2539)
 
 ## Lightning and L2
+
+* [Vienna Lightning Spec Summit](https://github.com/lightning/bolts/issues/1329)
+* [LND: Zero-Timestamp Gossip DoS disclosure](https://delvingbitcoin.org/t/lnd-zero-timestamp-gossip-dos-disclosure/2621)
+* [Vulnerability Disclosure: Assertion DoS in Core Lightning](https://delvingbitcoin.org/t/vulnerability-disclosure-assertion-dos-in-core-lightning/2507)
+* [2 vulnerabilities in Bark to steal funds](https://uncensoredtech.substack.com/p/2-vulnerabilities-in-bark-to-steal)
+* Spark developments
+    * [Blink adoption](https://www.blink.sv/blog/non-custodial-accounts-in-blink-wallet)
+    * [Pending unilateral exit](https://x.com/notgrubles/status/2074628300723351959)
+    * [Spark Opacity](https://x.com/matthewvuk2/status/2075058819864887608)
 
 
 ## Privacy / Cryptography / Research / Security
