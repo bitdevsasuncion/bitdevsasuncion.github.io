@@ -21,6 +21,7 @@ meetup: "https://www.satlantis.io/events/2023/asu-bitdevs-16"
 ## Bitcoin (Core, protocol, wallets)
 
 * [CTV-only Vault Concept v0.1.0 release](https://delvingbitcoin.org/t/ctv-only-vault-concept-v0-1-0-release/2539)
+* [Fountain Codes: a way to reduce blockchain storage costs](https://delvingbitcoin.org/t/fountain-codes-a-way-to-reduce-blockchain-storage-costs/2624)
 
 ## Lightning and L2
 
@@ -37,4 +38,4 @@ meetup: "https://www.satlantis.io/events/2023/asu-bitdevs-16"
 
 ## Privacy / Cryptography / Research / Security
 
-* [Fountain Codes: a way to reduce blockchain storage costs](https://delvingbitcoin.org/t/fountain-codes-a-way-to-reduce-blockchain-storage-costs/2624)
+* [Intersection Attacks on CoinJoin Anonymity](https://spiralbtc.substack.com/p/the-scroll-4-intersection-attacks)
