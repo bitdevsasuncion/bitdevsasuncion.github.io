@@ -31,6 +31,7 @@ meetup: "https://www.satlantis.io/events/2023/asu-bitdevs-16"
 * Spark developments
     * [Blink adoption](https://www.blink.sv/blog/non-custodial-accounts-in-blink-wallet)
     * [Pending unilateral exit](https://x.com/notgrubles/status/2074628300723351959)
+    * [Unilateral exit case study](https://github.com/blinkbitcoin/spark-unilateral-exit/blob/main/docs/mainnet-exit-case-study.md)
     * [Spark Opacity](https://x.com/matthewvuk2/status/2075058819864887608)
 
 
