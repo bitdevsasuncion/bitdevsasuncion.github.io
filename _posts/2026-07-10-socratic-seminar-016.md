@@ -17,10 +17,13 @@ meetup: "https://www.satlantis.io/events/2023/asu-bitdevs-16"
 
 ## Warmup
 
+* [RadarChat](https://x.com/RadarChat)
+    * [EU Chat Control](https://exitchatcontrol.org/)
+* [Bitcoin Learning Graph](https://btc-graph.brenorb.com)
 * BIP-110 madness
+    * [Why BIP-110 is a bad idea](https://x.com/theonevortex/status/2020594400955695442)
     * ["Spam" compatible blocks](https://x.com/CoSatoshi821/status/2073540481204580443)
     * [Fork Countdown](https://jlopp.github.io/knotzi-death-march/)
-    * [Why BIP-110 is a bad idea](https://x.com/theonevortex/status/2020594400955695442)
 
 ## Bitcoin (Core, protocol, wallets)
 
