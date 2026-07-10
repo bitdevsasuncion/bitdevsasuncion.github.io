@@ -17,13 +17,12 @@ meetup: "https://www.satlantis.io/events/2023/asu-bitdevs-16"
 
 ## Warmup
 
-* [RadarChat](https://x.com/RadarChat)
+* [RadarChat](https://xcancel.com/RadarChat)
     * [EU Chat Control](https://exitchatcontrol.org/)
 * [Bitcoin Learning Graph](https://btc-graph.brenorb.com)
 * BIP-110 madness
-    * [Why BIP-110 is a bad idea](https://x.com/theonevortex/status/2020594400955695442)
-    * ["Spam" compatible blocks](https://x.com/CoSatoshi821/status/2073540481204580443)
     * [Fork Countdown](https://jlopp.github.io/knotzi-death-march/)
+    * [Description and counter arguments](https://gist.github.com/douglaz/0b31f924ec6f6c63a3c425ccac6ec1d1)
 
 ## Bitcoin (Core, protocol, wallets)
 
@@ -32,16 +31,14 @@ meetup: "https://www.satlantis.io/events/2023/asu-bitdevs-16"
 
 ## Lightning and L2
 
-* [Vienna Lightning Spec Summit](https://github.com/lightning/bolts/issues/1329)
 * [LND: Zero-Timestamp Gossip DoS disclosure](https://delvingbitcoin.org/t/lnd-zero-timestamp-gossip-dos-disclosure/2621)
 * [Vulnerability Disclosure: Assertion DoS in Core Lightning](https://delvingbitcoin.org/t/vulnerability-disclosure-assertion-dos-in-core-lightning/2507)
 * [2 vulnerabilities in Bark to steal funds](https://uncensoredtech.substack.com/p/2-vulnerabilities-in-bark-to-steal)
 * Spark developments
     * [Blink adoption](https://www.blink.sv/blog/non-custodial-accounts-in-blink-wallet)
-    * [Pending unilateral exit](https://x.com/notgrubles/status/2074628300723351959)
+    * [Pending unilateral exit](https://xcancel.com/notgrubles/status/2074628300723351959)
     * [Unilateral exit case study](https://github.com/blinkbitcoin/spark-unilateral-exit/blob/main/docs/mainnet-exit-case-study.md)
-    * [Spark Opacity](https://x.com/matthewvuk2/status/2075058819864887608)
-
+    * [Spark Opacity](https://xcancel.com/matthewvuk2/status/2075058819864887608)
 
 ## Privacy / Cryptography / Research / Security
 
