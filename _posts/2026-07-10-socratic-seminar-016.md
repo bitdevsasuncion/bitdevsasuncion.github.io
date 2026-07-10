@@ -23,6 +23,7 @@ meetup: "https://www.satlantis.io/events/2023/asu-bitdevs-16"
 * BIP-110 madness
     * [Fork Countdown](https://jlopp.github.io/knotzi-death-march/)
     * [Description and counter arguments](https://gist.github.com/douglaz/0b31f924ec6f6c63a3c425ccac6ec1d1)
+    * [Anti Bitcoin Core Report](https://www.citadel21.com/)
 
 ## Bitcoin (Core, protocol, wallets)
 
@@ -31,14 +32,14 @@ meetup: "https://www.satlantis.io/events/2023/asu-bitdevs-16"
 
 ## Lightning and L2
 
-* [LND: Zero-Timestamp Gossip DoS disclosure](https://delvingbitcoin.org/t/lnd-zero-timestamp-gossip-dos-disclosure/2621)
-* [Vulnerability Disclosure: Assertion DoS in Core Lightning](https://delvingbitcoin.org/t/vulnerability-disclosure-assertion-dos-in-core-lightning/2507)
-* [2 vulnerabilities in Bark to steal funds](https://uncensoredtech.substack.com/p/2-vulnerabilities-in-bark-to-steal)
 * Spark developments
     * [Blink adoption](https://www.blink.sv/blog/non-custodial-accounts-in-blink-wallet)
     * [Pending unilateral exit](https://xcancel.com/notgrubles/status/2074628300723351959)
     * [Unilateral exit case study](https://github.com/blinkbitcoin/spark-unilateral-exit/blob/main/docs/mainnet-exit-case-study.md)
     * [Spark Opacity](https://xcancel.com/matthewvuk2/status/2075058819864887608)
+* [2 vulnerabilities in Bark to steal funds](https://uncensoredtech.substack.com/p/2-vulnerabilities-in-bark-to-steal)
+* [LND: Zero-Timestamp Gossip DoS disclosure](https://delvingbitcoin.org/t/lnd-zero-timestamp-gossip-dos-disclosure/2621)
+* [Vulnerability Disclosure: Assertion DoS in Core Lightning](https://delvingbitcoin.org/t/vulnerability-disclosure-assertion-dos-in-core-lightning/2507)
 
 ## Privacy / Cryptography / Research / Security
 
