@@ -3,7 +3,7 @@ layout: post
 type: socratic
 title: "Socratic Seminar #18"
 meetup: "https://www.satlantis.io/events/1002428/asu-bitdevs-18"
-----------------------------------------------------------------
+---
 
 ## Announcements
 
