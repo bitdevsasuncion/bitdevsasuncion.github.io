@@ -41,8 +41,8 @@ meetup: "https://www.satlantis.io/events/1002428/asu-bitdevs-18"
   * [Technical discussion](https://insider.btcpp.dev/p/how-cache-optimization-not-broken)
   * [SideSwap incident report](https://sideswap.io/news/statement-on-the-liquid-network-incident-of-6-september-2026/)
 
-* [Babilonia: probabilistic CoinJoin disguised as covert betting](https://delvingbitcoin.org/t/babilonia-probabilistic-coinjoin-and-covert-betting/2704)
 
+* [Babilonia: probabilistic CoinJoin disguised as covert betting](https://delvingbitcoin.org/t/babilonia-probabilistic-coinjoin-and-covert-betting/2704)
 
 * BTCPay Server security follow-up
   * [BTCPay Server 2.4.4 security update](https://blog.btcpayserver.org/btcpay-server-2-4-4/)
