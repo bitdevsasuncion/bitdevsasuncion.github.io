@@ -9,6 +9,7 @@ meetup: "https://www.satlantis.io/events/1002428/asu-bitdevs-18"
 
 * Respect the privacy of participants
 * Meetups are never recorded. We want everyone to feel comfortable participating and discussing the scheduled topics, anonymously if they wish
+* (Probable) Location change for next bitdevs: [La Cafebreria](https://maps.app.goo.gl/Tjd5zywb6mmci2iv8)
 * Join our [Signal Group](https://gist.github.com/douglaz/820dd39e23b0eb4ae56a58e8fcfbab4d)
 
 ## Acknowledgements
@@ -17,17 +18,14 @@ meetup: "https://www.satlantis.io/events/1002428/asu-bitdevs-18"
 
 ## Warmup
 
+* [Buy Bitcoin from ueno 🤔](https://nitter.click/wilderko/status/2100457844097073519)
+* [BIP-110 fail](https://nitter.click/ottosch_/status/2097440342328889818)
 
 ## Bitcoin (Core, protocol, wallets)
 
 * BIP-54 / consensus cleanup: Murch-Zawy time-warp mitigation
   * [Bitcoin Core #35949](https://github.com/bitcoin/bitcoin/pull/35949)
   * [Bitcoin Optech summary](https://bitcoinops.org/en/newsletters/2026/09/11/#bitcoin-core-35949)
-
-
-* Bitcoin Core security and robustness fixes
-  * [`-walletnotify` command-injection fix](https://bitcoinops.org/en/newsletters/2026/09/11/#bitcoin-core-36048)
-  * [HTTP server unbounded-memory fix](https://bitcoinops.org/en/newsletters/2026/09/11/#bitcoin-core-36123)
 
 ## Privacy / Cryptography / Research / Security
 
@@ -43,20 +41,16 @@ meetup: "https://www.satlantis.io/events/1002428/asu-bitdevs-18"
   * [Technical discussion](https://insider.btcpp.dev/p/how-cache-optimization-not-broken)
   * [SideSwap incident report](https://sideswap.io/news/statement-on-the-liquid-network-incident-of-6-september-2026/)
 
-
 * [Babilonia: probabilistic CoinJoin disguised as covert betting](https://delvingbitcoin.org/t/babilonia-probabilistic-coinjoin-and-covert-betting/2704)
 
 
 * BTCPay Server security follow-up
   * [BTCPay Server 2.4.4 security update](https://blog.btcpayserver.org/btcpay-server-2-4-4/)
-  * [API-key, LND and deployment hardening](https://bitcoinops.org/en/newsletters/2026/09/11/)
+  * [API-key, LND and deployment hardening](https://bitcoinops.org/en/newsletters/2026/09/11/#btcpay-server-2-4-4)
+  * [Estimate of lost funds on August hack](https://github.com/somaxbt/btcpay-lnd-drain-2026-08)
 
-## Lightning and L2 - Bonus
+* [A case study of AI for security auditing](https://juraj.bednar.io/en/blog-en/2026/09/18/ten-ai-models-vs-embargoed-core-lightning-a-case-study-of-ai-for-auditing/)
 
-* Core Lightning 25.09 memory-exhaustion DoS
-  * [`ping`/`pong` backpressure vulnerability and fix](https://bitcoinops.org/en/newsletters/2026/09/04/)
-
-* LND BOLT12 progress
-  * [Signing and verification of invoice requests and invoices](https://github.com/lightningnetwork/lnd/pull/11061)
+## Lightning and L2
 
 * [Depots: probabilistic penalties for massively scalable self-custody](https://delvingbitcoin.org/t/depots-theft-proof-self-custodial-bitcoin-for-billions-of-users/2892)
