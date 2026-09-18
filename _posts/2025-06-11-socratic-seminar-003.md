@@ -29,7 +29,7 @@ meetup: "https://lu.ma/uuenqifz"
 
 ## Cool transaction sheenanigans
 
-- [Weighted multisig](https://xcancel.com/mononautical/status/1921012232747421892?s=46)
+- [Weighted multisig](https://nitter.click/mononautical/status/1921012232747421892?s=46)
 
 ## L2
 

@@ -19,15 +19,15 @@ meetup: "https://www.satlantis.io/events/1935/ASU%3A-BitDevs-%2312"
 
 - [Review BTC++](https://x.com/btcplusplus/status/2029614436428959897)
   <!-- * Keep this short. Use it to frame the night around exploits, tradeoffs, and current debates -->
-- [Bitcoin Mining Hashrate Increases +50% to 1.2 ZH/s](https://xcancel.com/DocumentingBTC/status/2029281302021586969)
+- [Bitcoin Mining Hashrate Increases +50% to 1.2 ZH/s](https://nitter.click/DocumentingBTC/status/2029281302021586969)
 - [Open-Source Agents Need to Get Serious About Payments](https://x.com/thebluematt/status/2026667191475777727?s=46&t=j-_0JYEClY_v0wtv4GA0Zw)
 
 ## Bitcoin (Core, protocol, wallets)
 
 - [The limitations of cryptographic agility in Bitcoin](https://groups.google.com/g/bitcoindev/c/O6l3GUvyO7A)
-  - [Quantum-Proofing Bitcoin with P2Q Addresses](https://xcancel.com/rodarmor/status/2027813909550584109)
+  - [Quantum-Proofing Bitcoin with P2Q Addresses](https://nitter.click/rodarmor/status/2027813909550584109)
 - [Recent OP_RETURN usage and BIP-110](https://delvingbitcoin.org/t/recent-op-return-output-statistics/2248)
-  - [Embedding Images in Bitcoin Blocks Without OP_RETURN via Slipstream](https://xcancel.com/KristianCsep/status/2027434616513057147)
+  - [Embedding Images in Bitcoin Blocks Without OP_RETURN via Slipstream](https://nitter.click/KristianCsep/status/2027434616513057147)
 - [Using AI tooling for code review](https://delvingbitcoin.org/t/using-ai-tooling-for-code-review/2277)
   <!-- * Easy framing: can Bitcoin stop arbitrary data, and should it -->
 
@@ -39,7 +39,7 @@ meetup: "https://www.satlantis.io/events/1935/ASU%3A-BitDevs-%2312"
 ## Lightning and L2
 
 - [SuperScalar (channel factories / Decker-Wattenhofer timeout tree)](https://github.com/8144225309/SuperScalar)
-- [Mario Kart with LN](https://xcancel.com/d_plus__plus/status/2022889867169140767)
+- [Mario Kart with LN](https://nitter.click/d_plus__plus/status/2022889867169140767)
 
 ## Privacy / Cryptography / Research
 
@@ -54,6 +54,6 @@ meetup: "https://www.satlantis.io/events/1935/ASU%3A-BitDevs-%2312"
 * [Starknet Introduces strkBTC for Private Bitcoin on Layer 2](https://www.theblock.co/post/391420/starknet-introduces-strkbtc-to-bring-private-bitcoin-and-confidential-defi-transactions-to-its-layer-2-network)
 * [BOLT 12: Clarification on offer_amount Greater Than Zero](https://github.com/lightning/bolts/commit/311119388a46dfa859da3d2eda0ca836cfc5f078)
 * [BOLT 11: New Test Vector for Signature with High-S](https://github.com/lightning/bolts/commit/14901bdcacee53d95b46dc276b0f09c85d7d71fd)
-* [Taproot and L2s](https://xcancel.com/gringokiwi/status/2031052005557350890)
+* [Taproot and L2s](https://nitter.click/gringokiwi/status/2031052005557350890)
 * [NUT-X: Proof of Liabilities (PoL)](https://gist.github.com/victorandre957/4f497d385e1fd9a47898480903f56b3e)
 * [Secure Cashu payment gateway for WooCommerce](https://github.com/robwoodgate/cashu-for-woocommerce) -->

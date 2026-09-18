@@ -18,7 +18,7 @@ meetup: "https://lu.ma/jn8n68cp"
 
 - [Puzzle 69 solved and stolen](https://mempool.space/tx/a52c5046f3097a8c2bd3b9889df2fb47b104d47a16cc679d3357feec003db753)
     - [Overview](http://privatekeys.pw/puzzles/bitcoin-puzzle-tx)
-- [Peach GroupHug](https://xcancel.com/peachbitcoin/status/1921147023262146785)
+- [Peach GroupHug](https://nitter.click/peachbitcoin/status/1921147023262146785)
 - [BIP30 consensus failure vulnerability](https://mailing-list.bitcoindevs.xyz/bitcoindev/CAPv7TjZTWhgzzdps3vb0YoU3EYJwThDFhNLkf4XmmdfhbORTaw@mail.gmail.com/)
     - [Removal PR](https://github.com/bitcoin/bitcoin/pull/31649)
 
@@ -43,10 +43,10 @@ meetup: "https://lu.ma/jn8n68cp"
 - ["It's impractical to prevent 32-byte spam from abusing p2*h outputs"](https://bitcoin.stackexchange.com/questions/122481/how-do-i-set-up-bitcoin-conf-in-bitcoin-knots-to-stop-spam-and-dust#answers)
 - [What's the largest size OP_RETURN payload ever created?](https://bitcoin.stackexchange.com/questions/126131/whats-the-largest-size-op-return-payload-ever-created)
 - [tx-pigeon 🕊️](https://x.com/stutxo/status/1922046402739265941)
-- [Someone inscribed this 3.7MB bitcoin music track via slipstream](https://xcancel.com/mononautical/status/1906647846398640531)
+- [Someone inscribed this 3.7MB bitcoin music track via slipstream](https://nitter.click/mononautical/status/1906647846398640531)
     - [Tx on Mempool Space](https://mempool.space/tx/62d17dd978f04e547b0156412c1706d4589ed9fb8aeeef804d694c405c6e0a10)
-- [First Taproot Annex usage](https://xcancel.com/mononautical/status/1921180666831499737)
-    - [Second](https://xcancel.com/mononautical/status/1921557253368295733)
+- [First Taproot Annex usage](https://nitter.click/mononautical/status/1921180666831499737)
+    - [Second](https://nitter.click/mononautical/status/1921557253368295733)
     - [Code](https://mailing-list.bitcoindevs.xyz/bitcoindev/Z9tg-NbTNnYciSOh@petertodd.org/)
 - [Vision of mempool simplification](https://btctranscripts.com/adopting-bitcoin/2021/2021-11-16-gloria-zhao-transaction-relay-policy)
 - [Rage against Bitcoin Core](https://gist.github.com/douglaz/0ebec7356128b7ef03e8743515f257f4)
@@ -60,4 +60,4 @@ meetup: "https://lu.ma/jn8n68cp"
 
 ## Lightning Network & L2
 - [Make the payment secret mandatory for BOLT11](https://github.com/lightning/bolts/pull/1242)
-- [Spark live on mainnet](https://xcancel.com/buildonspark/status/1917277262015041851)
+- [Spark live on mainnet](https://nitter.click/buildonspark/status/1917277262015041851)

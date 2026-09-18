@@ -13,23 +13,23 @@ meetup: "https://lu.ma/asubitdevs"
 - Thanks to [Vinteum](https://vinteum.org/) and [Bitcoin Paraguay](https://bitcoinparaguay.org/) for the support
 
 ## Warmup
-* [How "filters" started?](https://xcancel.com/hugomofn/status/1973062792233279626)
+* [How "filters" started?](https://nitter.click/hugomofn/status/1973062792233279626)
 * [A note on hostility against Bitcoin Core devs](https://laanwj.github.io/2016/05/06/hostility-scams-and-moving-forward.html)
-* [Zero zero zero transaction](https://xcancel.com/mononautical/status/1976987902736580946)
+* [Zero zero zero transaction](https://nitter.click/mononautical/status/1976987902736580946)
 
 ## Bitcoin (Core, protocol, wallets)
-* [What is in Bitcoin Core v30?](https://xcancel.com/bitschmidty/status/1976692672023667057)
+* [What is in Bitcoin Core v30?](https://nitter.click/bitschmidty/status/1976692672023667057)
     * Notable: [Improve TxOrphanage denial of service bounds](https://github.com/bitcoin/bitcoin/pull/31829)
 * [Are all taproot addresses vulnerable to quantum computing](https://bitcoin.stackexchange.com/questions/127660/are-all-taproot-addresses-vulnerable-to-quantum-computing)
 * [Draft BIPs for Script Restoration](https://github.com/rustyrussell/bips/pull/1)
 
 ## L2
-* [Spark/WoS lack of privacy](https://xcancel.com/evankaloudis/status/1975997003680108908)
+* [Spark/WoS lack of privacy](https://nitter.click/evankaloudis/status/1975997003680108908)
     * Example: elderdeborah028@walletofsatoshi.com
 * [Eclair vulnerability that allows an attacker to steal all current funds from a channel](https://delvingbitcoin.org/t/disclosure-eclair-preimage-extraction-exploit/2010)
 
 ## Privacy / Cryptography / Research
-* [Secure Fountain Codes for Pruned Bitcoin Nodes](https://xcancel.com/roasbeef/status/1973914919365194136)
+* [Secure Fountain Codes for Pruned Bitcoin Nodes](https://nitter.click/roasbeef/status/1973914919365194136)
     * [Fountain code](https://en.wikipedia.org/wiki/Fountain_code)
 
 ## Releases

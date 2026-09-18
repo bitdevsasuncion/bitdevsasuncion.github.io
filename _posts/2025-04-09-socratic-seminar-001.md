@@ -16,8 +16,8 @@ meetup: "https://lu.ma/hqws2482"
 
 ## Warmup
 
-- [Bitcoin Mailing list temporarily banned from Google](https://xcancel.com/callebtc/status/1907491265328927126)
-- [Phoenix is back in the USA](https://xcancel.com/PhoenixWallet/status/1909652018207109567)
+- [Bitcoin Mailing list temporarily banned from Google](https://nitter.click/callebtc/status/1907491265328927126)
+- [Phoenix is back in the USA](https://nitter.click/PhoenixWallet/status/1909652018207109567)
 
 ## Bitcoin
 
@@ -26,7 +26,7 @@ meetup: "https://lu.ma/hqws2482"
 
 ### Mining
 
-- [Braiins open sourced BCB100](https://xcancel.com/BraiinsMining/status/1904601550212731287)
+- [Braiins open sourced BCB100](https://nitter.click/BraiinsMining/status/1904601550212731287)
 
 ## Lightning Network
 

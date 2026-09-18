@@ -18,7 +18,7 @@ meetup: "https://lu.ma/2kns3r9m"
 
 * [LN native prediction market](https://beta.predyx.com/)
 * Mesh networks
-    * [Bluetooth](https://xcancel.com/jack/status/1941989435962212728?s=46)
+    * [Bluetooth](https://nitter.click/jack/status/1941989435962212728?s=46)
     * [LoRa](https://gist.github.com/douglaz/6079bf3aafdfa594fa5b78ba45ceb9fc)
 
 ## Bitcoin
@@ -32,7 +32,7 @@ meetup: "https://lu.ma/2kns3r9m"
 ## Mining
 
 * [Stratum v2 STARK proof demo](https://bitcoinops.org/en/newsletters/2025/06/20/#stratum-v2-stark-proof-demo)
-* [How Stratum V2 Increases Mining Profitability](https://xcancel.com/StratumV2/status/1933191370123993478)
+* [How Stratum V2 Increases Mining Profitability](https://nitter.click/StratumV2/status/1933191370123993478)
 
 ## Privacy / Cryptography
 
@@ -44,7 +44,7 @@ meetup: "https://lu.ma/2kns3r9m"
 
 ## L2
 
-* [Wallet of Satoshi - Self Custodial mode (?)](https://xcancel.com/spark/status/1940168641301119094)
+* [Wallet of Satoshi - Self Custodial mode (?)](https://nitter.click/spark/status/1940168641301119094)
     * [Spark TL;DR](https://docs.spark.money/spark/spark-tldr)
     * [Statechains](https://bitcoinops.org/en/topics/statechains/)
     * [Statechains Deep-Dive](https://medium.com/@RubenSomsen/statechains-non-custodial-off-chain-bitcoin-transfer-1ae4845a4a39)

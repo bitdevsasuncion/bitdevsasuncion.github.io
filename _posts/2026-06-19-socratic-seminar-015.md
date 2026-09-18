@@ -18,7 +18,7 @@ meetup: "https://www.satlantis.io/events/2022/asu-bitdevs-15"
 ## Warmup
 
 * [Welcoming conduition](https://brink.dev/blog/2026/06/01/conduition/)
-* [Public Pool added Stratum V2 support](https://xcancel.com/StratumV2/status/2062959948720447919)
+* [Public Pool added Stratum V2 support](https://nitter.click/StratumV2/status/2062959948720447919)
 * [Zenobank: Crypto Payment Gateway Architecture](https://zenobank.io/blog/crypto-payment-gateway-architecture)
 
 ## Bitcoin (Core, protocol, wallets)
@@ -31,7 +31,7 @@ meetup: "https://www.satlantis.io/events/2022/asu-bitdevs-15"
 
 * [Bark now on Bitcoin mainnet](https://blog.second.tech/bark-now-on-bitcoin-mainnet/)
     * [Bark changelog](https://second.tech/docs/changelog)
-    * [Noah Wallet](https://xcancel.com/hampus_s/status/2064465370359218649)
+    * [Noah Wallet](https://nitter.click/hampus_s/status/2064465370359218649)
 * [Ark: Offchain Transaction Batching in Bitcoin](https://arxiv.org/abs/2605.20952)
 * [Cube: Ark + ZK](https://medium.com/cube-bitcoin/introducing-cube-8b3702e470a5)
     * [Cube gist](https://gist.github.com/douglaz/40f53c0f906468c379b14d3679f9d975)
