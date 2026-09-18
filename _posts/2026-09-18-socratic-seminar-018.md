@@ -18,7 +18,7 @@ meetup: "https://www.satlantis.io/events/1002428/asu-bitdevs-18"
 
 ## Warmup
 
-* [Buy Bitcoin from ueno 🤔](https://nitter.click/wilderko/status/2100457844097073519)
+* [Buy Bitcoin from ueno? 🤔](https://nitter.click/wilderko/status/2100457844097073519)
 * [BIP-110 fail](https://nitter.click/ottosch_/status/2097440342328889818)
 
 ## Bitcoin (Core, protocol, wallets)
