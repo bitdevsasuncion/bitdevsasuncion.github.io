@@ -17,19 +17,12 @@ meetup: "https://www.satlantis.io/events/1002428/asu-bitdevs-18"
 
 ## Warmup
 
-* [BitDevs around the world](https://www.bitdevsmap.org)
-
-* LDK releases
-  * [LDK v0.3-rc1: splicing, anchor channels and breaking API changes](https://bitcoinops.org/en/newsletters/2026/09/11/)
-  * [LDK v0.2.6 security fixes](https://bitcoinops.org/en/newsletters/2026/09/11/)
 
 ## Bitcoin (Core, protocol, wallets)
 
-* [Universal opt-in replay protection](https://delvingbitcoin.org/t/universal-opt-in-replay-protection/2792)
-
 * BIP-54 / consensus cleanup: Murch-Zawy time-warp mitigation
   * [Bitcoin Core #35949](https://github.com/bitcoin/bitcoin/pull/35949)
-  * [Bitcoin Optech summary](https://bitcoinops.org/en/newsletters/2026/09/11/)
+  * [Bitcoin Optech summary](https://bitcoinops.org/en/newsletters/2026/09/11/#bitcoin-core-35949)
 
 * Post-quantum Bitcoin developments
   * [SHRINCS draft BIP and DropKick recovery proposal](https://bitcoinops.org/en/newsletters/2026/09/04/)
