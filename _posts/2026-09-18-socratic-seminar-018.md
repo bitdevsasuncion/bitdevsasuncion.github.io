@@ -36,19 +36,14 @@ meetup: "https://www.satlantis.io/events/1002428/asu-bitdevs-18"
   * [Technical fixes: payment validation, timelocks and state-machine recovery](https://github.com/fedimint/fedimint/pull/9130)
   * [Actual incoming HTLC value vs sender-declared forwarding amount](https://github.com/fedimint/fedimint/commit/77d54571e29e524c5c0a7053b68ad174baa6d4f3)
   * [Proposed gateway solvency checks and circuit breakers](https://github.com/fedimint/fedimint/pull/9144)
-
 * Liquid consensus inflation bug and ~4,000 BTC peg-out
   * [Technical discussion](https://insider.btcpp.dev/p/how-cache-optimization-not-broken)
   * [SideSwap incident report](https://sideswap.io/news/statement-on-the-liquid-network-incident-of-6-september-2026/)
-
-
 * [Babilonia: probabilistic CoinJoin disguised as covert betting](https://delvingbitcoin.org/t/babilonia-probabilistic-coinjoin-and-covert-betting/2704)
-
 * BTCPay Server security follow-up
   * [BTCPay Server 2.4.4 security update](https://blog.btcpayserver.org/btcpay-server-2-4-4/)
   * [API-key, LND and deployment hardening](https://bitcoinops.org/en/newsletters/2026/09/11/#btcpay-server-2-4-4)
   * [Estimate of lost funds on August hack](https://github.com/somaxbt/btcpay-lnd-drain-2026-08)
-
 * [A case study of AI for security auditing](https://juraj.bednar.io/en/blog-en/2026/09/18/ten-ai-models-vs-embargoed-core-lightning-a-case-study-of-ai-for-auditing/)
 
 ## Lightning and L2
