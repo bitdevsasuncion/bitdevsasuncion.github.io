@@ -19,6 +19,8 @@ meetup: "https://www.satlantis.io/events/1002429/asu-bitdevs-19"
 ## Warmup
 
 * [Tabconf Overview](https://schedule.tabconf.com/)
+  * [5day4cast](https://5day4cast.com/)
+  * [rbitcoin](https://github.com/reardencode/rbitcoin)
 
 ## Bitcoin (Core, protocol, wallets)
 
@@ -29,7 +31,6 @@ meetup: "https://www.satlantis.io/events/1002429/asu-bitdevs-19"
 * Ledger Nano X hardware implant: three generations of SPI display sniffing and LTE/eSIM seed exfiltration
   * [Tibane Labs: Ledger Nano X, the spy implant (forensic analysis)](https://www.tibane.net/research/ledger-nano-x-implant)
   * [Ledger's response](https://support.ledger.com/article/Ledger-s-Response-to-the-Hardware-Implant-Attack)
-  * Genuine secure element and passing authenticity checks do not prevent malicious hardware from reading recovery words sent to the screen; the reseller-related theft investigation does not yet establish who installed the implants
 * Blink and Second/Ark exploits: two attacks attributed to the same attacker
   * [Blink's September 19 attack post-mortem: 6.61 BTC withdrawn](https://www.blink.sv/blog/sept-19-attack-postmortem-and-bounty)
   * [Tracking the stolen funds through Lightning, swaps and Fedimint ecash](https://www.blink.sv/blog/phase-two-following-the-coins-in-public)
