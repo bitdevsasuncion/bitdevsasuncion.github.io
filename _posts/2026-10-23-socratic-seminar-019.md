@@ -18,10 +18,11 @@ meetup: "https://www.satlantis.io/events/1002429/asu-bitdevs-19"
 
 ## Warmup
 
-* [A proposed .bitcoin top-level domain](https://x.com/wiz/status/2108002376372347249)
+* [Tabconf Overview](https://schedule.tabconf.com/)
 
 ## Bitcoin (Core, protocol, wallets)
 
+* [btc-policy: A Bitcoin Vault That Resists Theft and Coercion](https://gist.github.com/douglaz/0d7cc16a7465ecd2319090e9b823b179)
 
 ## Privacy / Cryptography / Research / Security
 
