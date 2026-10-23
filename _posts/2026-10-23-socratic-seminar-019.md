@@ -35,6 +35,7 @@ meetup: "https://www.satlantis.io/events/1002429/asu-bitdevs-19"
   * [Blink's September 19 attack post-mortem: 6.61 BTC withdrawn](https://www.blink.sv/blog/sept-19-attack-postmortem-and-bounty)
   * [Tracking the stolen funds through Lightning, swaps and Fedimint ecash](https://www.blink.sv/blog/phase-two-following-the-coins-in-public)
   * [Second's Ark server exploit: 0.75 BTC of operator liquidity](https://x.com/secondhq/status/2108065406665805992)
+  * [Gateway Drain](https://gist.github.com/douglaz/586f6e657fe0685d2e8331cee5d2b2cd)
 * Zark: zero-knowledge proofs for private statechain transfers and exits
   * [Protocol proposal](https://hackmd.io/@januszgrze/HJlHensozl)
   * [Research implementation (MutinyNet only)](https://github.com/zerosats/zark-public)
